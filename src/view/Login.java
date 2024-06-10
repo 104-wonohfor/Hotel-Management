@@ -19,7 +19,7 @@ import model.Account;
 
 /**
  *
- * @author AnMacbook
+ * @author Thang
  */
 public class Login extends JFrame {
 

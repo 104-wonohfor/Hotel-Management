@@ -29,7 +29,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author kien5258
+ * @author Thang
  */
 public class CheckIn extends javax.swing.JFrame {
 

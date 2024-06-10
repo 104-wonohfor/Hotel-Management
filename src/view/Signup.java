@@ -18,7 +18,7 @@ import dao.GuestDAO;
 import dao.PersonDAO;
 /**
  *
- * @author AnMacbook
+ * @author Thang
  */
 public class Signup extends javax.swing.JFrame {
 

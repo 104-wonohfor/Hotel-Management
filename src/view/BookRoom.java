@@ -32,7 +32,7 @@ import types.BookingStatus;
 
 /**
  *
- * @author kien5258
+ * @author Thang
  */
 public class BookRoom extends javax.swing.JFrame {
 

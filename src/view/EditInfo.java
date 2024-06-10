@@ -14,7 +14,7 @@ import model.Person;
 
 /**
  *
- * @author AnMacbook
+ * @author Thang
  */
 public class EditInfo extends javax.swing.JFrame {
 

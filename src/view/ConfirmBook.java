@@ -13,7 +13,7 @@ import model.Person;
 import model.Room;
 /**
  *
- * @author kien5258
+ * @author Thang
  */
 public class ConfirmBook extends javax.swing.JFrame {
 

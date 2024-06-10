@@ -11,7 +11,7 @@ import dao.RoomBookingDAO;
 
 /**
  *
- * @author AnMacbook
+ * @author Thang
  */
 public class DashboardGuest extends javax.swing.JFrame {
 

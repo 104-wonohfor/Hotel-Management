@@ -33,7 +33,7 @@ import types.RoomStatus;
 
 /**
  *
- * @author kien5258
+ * @author Thang
  */
 public class CheckOut extends javax.swing.JFrame {
 

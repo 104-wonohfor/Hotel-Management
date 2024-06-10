@@ -6,8 +6,6 @@ package view;
 
 import java.awt.BorderLayout;
 
-import javax.swing.JOptionPane;
-
 import com.rabbitmq.client.*;
 
 import dao.NumberReadRequestDAO;
@@ -20,7 +18,7 @@ import javax.swing.*;
 
 /**
  *
- * @author AnMacbook
+ * @author Thang
  */
 public class DashboardManager extends javax.swing.JFrame {
 

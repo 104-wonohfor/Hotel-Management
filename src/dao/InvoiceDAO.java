@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import model.Invoice;
+import dto.Invoice;
 import types.PaymentStatus;
 
 

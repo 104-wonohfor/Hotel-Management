@@ -1,4 +1,4 @@
-package model;
+package dto;
 
 import java.util.Date;
 import types.ServiceStatus;

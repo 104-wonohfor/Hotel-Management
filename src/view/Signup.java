@@ -8,14 +8,12 @@ import java.awt.Color;
 import javax.swing.BorderFactory;
 import javax.swing.JOptionPane;
 
-
-import model.Guest;
-
 import types.AccountType;
 
 import dao.AccountDAO;
 import dao.GuestDAO;
 import dao.PersonDAO;
+import dto.Guest;
 /**
  *
  * @author Thang

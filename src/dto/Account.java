@@ -1,4 +1,4 @@
-package model;
+package dto;
 
 public class Account {
     private String ID;

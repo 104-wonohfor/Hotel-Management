@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-import model.Receptionist;
+import dto.Receptionist;
 
 public class ReceptionistDAO {
     public void insertReceptionist(Receptionist receptionist){

@@ -1,7 +1,5 @@
 package dao;
 
-import model.Account;
-import model.Person;
 import types.AccountType;
 
 import java.sql.Connection;
@@ -11,6 +9,9 @@ import java.sql.SQLException;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import dto.Account;
+import dto.Person;
 
 
 

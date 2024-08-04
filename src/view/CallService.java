@@ -12,9 +12,9 @@ import dao.KitchenServiceDAO;
 import dao.RequestDAO;
 import dao.RoomBookingDAO;
 import dao.ServiceDAO;
-import model.Guest;
-import model.RoomBooking;
-import model.Service;
+import dto.Guest;
+import dto.RoomBooking;
+import dto.Service;
 import types.ServiceStatus;
 
 /**

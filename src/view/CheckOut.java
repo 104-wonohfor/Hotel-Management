@@ -23,11 +23,11 @@ import dao.RoomBookingDAO;
 import dao.RoomDAO;
 import dao.RoomGuestDAO;
 import dao.ServiceDAO;
-import model.Invoice;
-import model.Person;
-import model.Room;
-import model.RoomBooking;
-import model.Service;
+import dto.Invoice;
+import dto.Person;
+import dto.Room;
+import dto.RoomBooking;
+import dto.Service;
 import types.BookingStatus;
 import types.RoomStatus;
 

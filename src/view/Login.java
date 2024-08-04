@@ -5,14 +5,13 @@
 package view;
         
 import dao.AccountDAO;
+import dto.Account;
 
 import java.awt.Font;
 import java.awt.Color;
 import javax.swing.JFrame;
 import java.awt.Toolkit;
 import javax.swing.JOptionPane;
-
-import model.Account;
 
 
 

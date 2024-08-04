@@ -6,10 +6,12 @@ import java.sql.SQLException;
 import java.sql.ResultSet;
 
 import java.util.List;
+
+import dto.Service;
+
 import java.util.ArrayList;
 import java.util.Date;
 
-import model.Service;
 import types.ServiceStatus;
 
 public class ServiceDAO {

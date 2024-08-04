@@ -9,8 +9,8 @@ import javax.swing.BorderFactory;
 import javax.swing.JOptionPane;
 
 import dao.PersonDAO;
+import dto.Person;
 import dao.AccountDAO;
-import model.Person;
 
 /**
  *

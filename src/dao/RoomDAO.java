@@ -1,6 +1,5 @@
 package dao;
 
-import model.Room;
 import types.RoomStyle;
 import types.RoomStatus;
 
@@ -10,6 +9,8 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+
+import dto.Room;
 
 public class RoomDAO {
 

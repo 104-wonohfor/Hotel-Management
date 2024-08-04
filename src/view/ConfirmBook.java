@@ -8,9 +8,9 @@ import javax.swing.JOptionPane;
 
 import dao.RoomBookingDAO;
 import dao.RoomDAO;
+import dto.Person;
+import dto.Room;
 import dao.PersonDAO;
-import model.Person;
-import model.Room;
 /**
  *
  * @author Thang

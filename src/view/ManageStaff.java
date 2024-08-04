@@ -11,12 +11,9 @@ import dao.AccountDAO;
 import dao.GuestDAO;
 import dao.NumberReadRequestDAO;
 import dao.ReceptionistDAO;
-
-
-import model.Person;
-import model.Guest;
-import model.Receptionist;
-
+import dto.Guest;
+import dto.Person;
+import dto.Receptionist;
 import types.AccountType;
 
 import java.util.List;

@@ -5,7 +5,7 @@
 package view;
 
 import dao.RoomDAO;
-import model.Room;
+import dto.Room;
 import types.RoomStatus;
 import types.RoomStyle;
 

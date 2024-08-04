@@ -1,6 +1,5 @@
 package dao;
 
-import model.RoomBooking;
 import types.BookingStatus;
 
 import java.sql.Connection;
@@ -14,6 +13,9 @@ import java.util.Vector;
 
 import javax.swing.table.DefaultTableModel;
 import javax.swing.table.TableModel;
+
+import dto.RoomBooking;
+
 import java.sql.ResultSetMetaData;
 
 

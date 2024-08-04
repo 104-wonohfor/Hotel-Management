@@ -6,11 +6,11 @@ package view;
 
 import dao.RoomBookingDAO;
 import dao.ServiceDAO;
+import dto.RoomBooking;
+import dto.Service;
 
 import java.text.SimpleDateFormat;
 import java.util.List;
-import model.RoomBooking;
-import model.Service;
 
 /**
  *

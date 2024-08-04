@@ -13,9 +13,9 @@ import dao.InvoiceDAO;
 import dao.PersonDAO;
 import dao.RoomBookingDAO;
 import dao.ServiceDAO;
-import model.Invoice;
-import model.Person;
-import model.Service;
+import dto.Invoice;
+import dto.Person;
+import dto.Service;
 import types.ServiceStatus;
 
 /**

@@ -8,17 +8,16 @@ import java.awt.Color;
 import javax.swing.BorderFactory;
 import javax.swing.JOptionPane;
 
-import model.Guest;
-import model.Room;
-import model.RoomBooking;
-import model.Person;
-
 import java.util.List;
 
 import java.sql.Date;
 
 
 import dao.RoomDAO;
+import dto.Guest;
+import dto.Person;
+import dto.Room;
+import dto.RoomBooking;
 import dao.RoomBookingDAO;
 import dao.PersonDAO;
 import dao.RequestDAO;

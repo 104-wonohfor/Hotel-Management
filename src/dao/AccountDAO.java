@@ -2,7 +2,7 @@ package dao;
 
 import java.sql.*;
 
-import model.Account;
+import dto.Account;
 
 public class AccountDAO {
     public Account getAccount(String username, String password) {
